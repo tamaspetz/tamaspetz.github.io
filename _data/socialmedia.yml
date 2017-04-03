@@ -1,4 +1,10 @@
+- name: LinkedIn
+  url: https://www.linkedin.com/in/tamas-petz-86564a88/
+  class: icon-linkedin
+  title: "Connect on LinkedIn"
+  
 - name: Facebook
   url: https://www.facebook.com/tamas.petz.1
   class: icon-facebook
-  title: ""
+  title: "Connect on Facebook"
+
