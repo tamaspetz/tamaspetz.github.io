@@ -11,7 +11,7 @@
 title: 'Tamas Petz'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Collection of Ideas'
+slogan: 'Code Against Humanity'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: ''
@@ -167,8 +167,8 @@ apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.pn
 apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
+msapplication_tileimage:                'msapplication_tileimage.png' # Size 144x144
+msapplication_tilecolor:                '#2C3E50'
 
 
 #       ______                __                __
