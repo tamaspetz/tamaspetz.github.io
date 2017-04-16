@@ -26,30 +26,14 @@ $body-bg: 		#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #0057A0; // dark blue
-$ci-2: #22A7F0; // light blue
+$ci-1: #0F3057; // dark blue
+$ci-2: #0067B0; // light blue
 $ci-3: #EFC94C; // yellow
 $ci-4: #E27A3F; // orange
 $ci-5: #DF4949; // red
 $ci-6: $ci-1;
 
 
-
-/* Foundation Color Variables
-------------------------------------------------------------------- */
-
-$primary-color: $ci-1;
-$secondary-color: $ci-6;
-$alert-color: $ci-5;
-$success-color: $ci-6;
-$warning-color: $ci-4;
-$info-color: $ci-1;
-
-$link-color: $ci-1;
-$forced-link-color-hover: $ci-2;
-$default-link-color-active: $ci-2;
-$default-link-color-hover: $ci-2;
-$side-nav-link-color-hover: $ci-2;
 
 /* Grey Scale
 ------------------------------------------------------------------- */
@@ -76,7 +60,7 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+$topbar-bg-color: $grey-1;
 $topbar-bg: $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-1;
@@ -120,6 +104,26 @@ $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
 
+/* Foundation Color Variables
+------------------------------------------------------------------- */
+
+$primary-color: $ci-1;
+$secondary-color: $ci-6;
+$alert-color: $ci-5;
+$success-color: $ci-6;
+$warning-color: $ci-4;
+$info-color: $ci-1;
+
+$link-color: $ci-1;
+$forced-link-color-hover: $ci-2;
+$default-link-color-active: $ci-2;
+$default-link-color-hover: $ci-2;
+$side-nav-link-color-hover: $ci-2;
+
+$button-bg-color: $grey-5;
+$button-bg-hover: $ci-2;
+
+$paragraph-margin-bottom: 0.5em;
 
 /* Code
 ------------------------------------------------------------------- */
@@ -154,3 +158,6 @@ $highlight-name-tag: #000080;
 $highlight-text-whitespace: #bbbbbb;
 $highlight-literal-string-regex: #009926;
 $highlight-literal-string-symbol: #990073;
+
+/* END
+------------------------------------------------------------------- */

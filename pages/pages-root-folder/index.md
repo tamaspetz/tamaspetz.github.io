@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header.jpeg
+  image_fullwidth: header.jpg
 permalink: /index.html
 homepage: true
+breadcrumb: true
 ---
