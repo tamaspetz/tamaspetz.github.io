@@ -222,6 +222,10 @@ body.video cite { color: #fff; }
     color: $grey-5;
 }
 
+#page-meta a:hover {
+    color: $button-bg-hover;
+}
+
 #page-meta .button {
     background: $grey-5;
     border: 0;
@@ -230,6 +234,7 @@ body.video cite { color: #fff; }
     color: #fff;
 }
 #page-meta .button:hover {
+    color: #fff;
     background: $button-bg-hover;
 }
 .meta-info p {

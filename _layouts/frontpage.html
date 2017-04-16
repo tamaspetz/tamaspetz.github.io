@@ -62,7 +62,7 @@ format: frontpage
 
 {% unless site.posts == empty %}
     <div class="row t20 b20 homepage">
-        <div class="small-12 columns">
+        <div class="small-12 columns homepage_image">
             {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}
             <p>

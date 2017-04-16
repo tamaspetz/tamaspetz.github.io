@@ -77,10 +77,10 @@
     font-family: $font-family-monospace;
   }
   .alert-box.terminal::before {
-    content: "$ ";
-    color: $ci-6;
+    content: "$";
+    color: $ci-7;
     float: left;
-    margin: .25em .5em 0 0;
+    margin: 0 .5em 0 0;
   }
   .alert-box.text {
     background-color: $grey-2;
@@ -112,7 +112,7 @@ button, .button         { letter-spacing: 1px; }
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus { background: $grey-1; }
 
 .homepage p { margin: 0; padding: 0; color: $grey-10; }
-
+.homepage_image img { max-height: 400px; }
 
 
 /* Accordion
