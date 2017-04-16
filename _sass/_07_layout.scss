@@ -95,10 +95,10 @@ body.video cite { color: #fff; }
 
 @media #{$small-only} {
     #logo img {
-        display: none;
+        margin-top: 90px;
     }
     #masthead {
-        height: 200px;
+        height: 270px;
     }
     #masthead-with-pattern {
         padding: 15px 0;
@@ -122,10 +122,10 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
     #logo img {
-        margin-top: 30px;
+        margin-top: 90px;
     }
     #masthead {
-        height: 280px;
+        height: 270px;
     }
     #masthead-with-pattern {
         padding: 20px 0;
@@ -140,15 +140,16 @@ body.video cite { color: #fff; }
 }
 
 
+
 /* Masthead › large-only
 ------------------------------------------------------------------- */
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 30px;
+        margin-top: 90px;
     }
     #masthead {
-        height: 310px;
+        height: 270px;
     }
     #masthead-with-pattern {
         padding: 30px 0;
@@ -168,10 +169,10 @@ body.video cite { color: #fff; }
 
 @media #{$xlarge-up} {
     #logo img {
-        margin-top: 30px;
+        margin-top: 90px;
     }
     #masthead {
-        height: 380px;
+        height: 270px;
     }
     #masthead-with-pattern {
         padding: 45px 0;

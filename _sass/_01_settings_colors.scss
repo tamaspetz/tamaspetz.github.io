@@ -18,7 +18,7 @@
 
 $text-color:       	#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#fdfdfd;
+$body-bg: 		#fdfdfd;
 
 
 
@@ -26,12 +26,12 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #22A7F0;         // light blue
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #0057A0;         // dark blue
+$ci-1: #0057A0; // dark blue
+$ci-2: #22A7F0; // light blue
+$ci-3: #EFC94C; // yellow
+$ci-4: #E27A3F; // orange
+$ci-5: #DF4949; // red
+$ci-6: $ci-1;
 
 
 
@@ -45,7 +45,11 @@ $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
 
-
+$link-color: $ci-1;
+$forced-link-color-hover: $ci-2;
+$default-link-color-active: $ci-2;
+$default-link-color-hover: $ci-2;
+$side-nav-link-color-hover: $ci-2;
 
 /* Grey Scale
 ------------------------------------------------------------------- */
