@@ -7,3 +7,8 @@
   url: https://github.com/tamaspetz
   class: icon-github
   title: "Meet at Github"
+
+- name: GitLab
+  url: https://gitlab.com/tamaspetz
+  class: fontawesome icon-gitlab
+  title: "My public projects on GitLab"
