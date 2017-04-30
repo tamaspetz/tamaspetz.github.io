@@ -221,6 +221,10 @@ body.video cite { color: #fff; }
     color: $grey-5;
 }
 
+#page-meta p {
+    text-indent: 0;
+}
+    
 #page-meta a:hover {
     color: $button-bg-hover;
 }
